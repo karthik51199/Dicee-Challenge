@@ -14,12 +14,9 @@ body {
   background-color: #393E46;
 }
 
-/* .flag{
-  color:red;
-} */
-
 h1 {
   margin: 30px;
+  margin-bottom: 25px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
